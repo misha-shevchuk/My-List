@@ -219,8 +219,8 @@ h1, h2, h3, p, li, ul, ol, a, button, input, img, section, body {
     box-shadow: none;
   }
 
-  .input__button:hover {
-    box-shadow: 0 10px 20px rgba(128, 128, 128, 0.5);
+  .input__button {
+    box-shadow: 0 20px 40px rgba(128, 128, 128, 0.5);
   }
 
   .input__button:hover {
